@@ -8,7 +8,7 @@
 
 ### 1) Where would you fit your automated tests in your Recipe project development pipeline?  
 **Answer:**  
-Within a Github action that runs whenever code is pushed 
+Within a Github action that runs whenever code is pushed. 
 This ensures that tests are run automatically during development and catch bugs early before merging into the main branch.
 
 
